@@ -1,6 +1,4 @@
 # prodigy-Tasks
-Here's a comprehensive **README** template for your GitHub repository:
-
 ---
 # prodigy-Tasks-1
 # **Population Analysis and Visualization**
@@ -33,7 +31,7 @@ This project provides a Python-based approach to analyze and visualize populatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/prodigy-Tasks.git
-   cd population-analysis
+   cd task1
    ```
 2. Install dependencies:
    ```bash
@@ -70,13 +68,6 @@ prodigy-Tasks/
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
 ```
-
----
-
-## **Visualization Example**
-![Population Histogram Example](https://via.placeholder.com/800x400)  
-*Example histogram visualizing the population distribution.*
-
 ---
 
 ## **Contributing**
