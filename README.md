@@ -32,7 +32,7 @@ This project provides a Python-based approach to analyze and visualize populatio
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/population-analysis.git
+   git clone https://github.com/YourUsername/prodigy-Tasks.git
    cd population-analysis
    ```
 2. Install dependencies:
@@ -44,7 +44,7 @@ This project provides a Python-based approach to analyze and visualize populatio
 1. Place the dataset file (`API_SP.POP.TOTL_DS2_en_csv_v2_900.csv`) in the project folder.
 2. Run the Python script:
    ```bash
-   python population_analysis.py
+   python task1.py
    ```
 3. View the histogram output for the population distribution.
 
@@ -63,9 +63,9 @@ This project provides a Python-based approach to analyze and visualize populatio
 
 ## **Project Structure**
 ```
-population-analysis/
+prodigy-Tasks/
 │
-├── population_analysis.py   # Main Python script
+├── task1.py   # Main Python script
 ├── API_SP.POP.TOTL_DS2_en_csv_v2_900.csv  # Input dataset
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
@@ -94,15 +94,7 @@ Contributions are welcome!
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## **Acknowledgments**
 - Datasets sourced from the World Bank.
 - Tools like Pandas and Matplotlib for making data analysis and visualization seamless.
-
----
-
-Feel free to modify it according to your specific project details or preferences! Let me know if you need further assistance.
