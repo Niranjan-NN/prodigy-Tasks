@@ -16,8 +16,11 @@ The tasks are designed to showcase various technical and problem-solving skills,
 ## **Tasks List**
 
 1. **Task 1: [Population Analysis and Visualization]**
-   - **Description**: Briefly explain what Task 1 involves.
-   - **Technologies Used**: This project provides a Python-based approach to analyze and visualize population distribution data using a histogram. It uses datasets that include population data for various countries from 1960 to 2023.
+   - **Description**: This project provides a Python-based approach to analyze and visualize population distribution data using a histogram. It uses datasets that include population data for various countries from 1960 to 2023.
+   - **Technologies Used**:
+      - **Python:** Core programming language.
+      - **Pandas:** For data manipulation and analysis.
+      - **Matplotlib:** For creating visualizations.
    - **Location**: [Population Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task1)
 
 2. **Task 2: [Task Title]**
