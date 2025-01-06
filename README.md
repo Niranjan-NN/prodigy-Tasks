@@ -23,14 +23,17 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Matplotlib:** For creating visualizations.
    - **Location**: [Population Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task1)
 
-2. **Task 2: [Task Title]**
-   - **Description**: Briefly explain what Task 2 involves.
-   - **Technologies Used**: Mention any frameworks, libraries, or tools used.
-   - **Location**: [Path or file name]
+2. **Task 2: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)]**
+   - **Description**: This project performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The goal is to clean the dataset by handling missing values, dropping unnecessary columns, and exploring the relationships between variables to identify patterns and trends.
+   - **Technologies Used**:
+      - **Pandas:** For data manipulation and analysis.
+      - **Matplotlib:** For creating visualizations.
+      - **Seaborn:** To form Statistical Data Visualization
+   - **Location**: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task2)
 
 3. **Task 3: [Task Title]**
    - **Description**: Briefly explain what Task 3 involves.
-   - **Technologies Used**: Mention any frameworks, libraries, or tools used.
+   - **Technologies Used**:
    - **Location**: [Path or file name]
 
 4. **Task 4: [Task Title]**
@@ -73,7 +76,6 @@ prodigy-tasks/
 ├── Task4/                     # Folder for Task 4
 ├── Task5/                     # Folder for Task 5
 ├── README.md                  # Project documentation
-└── requirements.txt           # Dependencies (if applicable)
 ```
 
 ---
