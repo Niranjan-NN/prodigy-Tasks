@@ -31,10 +31,13 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Seaborn:** To form Statistical Data Visualization
    - **Location**: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task2)
 
-3. **Task 3: [Task Title]**
-   - **Description**: Briefly explain what Task 3 involves.
+3. **Task 3: [Bank Marketing Dataset Classification Using Decision Tree]**
+   - **Description**: This project implements a decision tree classifier on the Bank Marketing dataset. The objective is to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data. The project also addresses data preprocessing, including handling categorical variables and addressing class imbalance, and evaluates the model's performance with metrics such as precision, recall, and accuracy.
    - **Technologies Used**:
-   - **Location**: [Path or file name]
+      - **Pandas:** For data loading, cleaning, and manipulation.
+      - **Scikit-learn:** For model building, training, and evaluation.
+      - **DecisionTreeClassifier:** To classify the target variable based on input features.
+   - **Location**: [Bank Marketing Dataset Classification Using Decision Tree](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task3)
 
 4. **Task 4: [Task Title]**
    - **Description**: Briefly explain what Task 4 involves.
