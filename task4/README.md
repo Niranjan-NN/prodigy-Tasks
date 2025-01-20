@@ -1,4 +1,4 @@
-# Sentiment Analysis and Word Cloud Generation
+# Social Media Sentiment Analysis and Visualization
 
 This project analyzes sentiment data from Twitter datasets and generates word clouds for different sentiment labels. It combines sentiment columns into a single column representing the most significant sentiment and visualizes sentiment distribution and word clouds.
 
