@@ -39,10 +39,14 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **DecisionTreeClassifier:** To classify the target variable based on input features.
    - **Location**: [Bank Marketing Dataset Classification Using Decision Tree](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task3)
 
-4. **Task 4: [Task Title]**
-   - **Description**: Briefly explain what Task 4 involves.
-   - **Technologies Used**: Mention any frameworks, libraries, or tools used.
-   - **Location**: [Path or file name]
+4. **Task 4: [Social Media Sentiment Analysis and Visualization]**
+   - **Description**: This project analyzes and visualizes **sentiment patterns in social media data** to understand public opinion and attitudes towards specific topics or brands. The goal is to extract insights from social media posts, identify sentiment (positive, negative, neutral), and provide visualizations to showcase public sentiment trends.
+   - **Technologies Used**:
+      - **Data Collection**: Gathering social media data.
+      - **Text Preprocessing**: Cleaning and preparing the text data for analysis.
+      - **Sentiment Analysis**: Analyzing sentiment using predefined categories.
+      - **Data Visualization**: Visualizing sentiment trends and patterns.
+   - **Location**: [Social Media Sentiment Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task4)
 
 5. **Task 5: [Task Title]**
    - **Description**: Briefly explain what Task 5 involves.
