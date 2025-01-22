@@ -48,10 +48,14 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Data Visualization**: Visualizing sentiment trends and patterns.
    - **Location**: [Social Media Sentiment Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task4)
 
-5. **Task 5: [Task Title]**
-   - **Description**: Briefly explain what Task 5 involves.
-   - **Technologies Used**: Mention any frameworks, libraries, or tools used.
-   - **Location**: [Path or file name]
+5. **Task 5: [Traffic Accident Data Analysis]**
+   - **Description**: This project analyzes traffic accident data to identify patterns and visualize contributing factors such as road conditions, weather, and time of day. It aims to uncover accident hotspots and provide actionable insights for improving road safety.
+      - **Technologies Used**:
+      - **Data Preprocessing**: Handling missing values and cleaning data for accurate analysis.
+      - **Trend Analysis**: Exploring accident data over time.
+      - **Geospatial Analysis**: Visualizing accident hotspots using maps (if location data is available).
+      - **Data Visualization**: Libraries like Matplotlib and Seaborn for creating insightful charts and graphs.
+   - **Location**: [Traffic Accident Data Analysis](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task5)
 
 ---
 
